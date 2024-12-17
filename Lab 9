@@ -1,0 +1,15 @@
+<!-- Created by: Ali Setareh, Group: ekfuc23 -->
+<!DOCTYPE html>
+<html lang="lt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Lab 8 - Enhanced HTML Page with Lithuanian Encoding">
+    <title>Lab 8 - Enhanced HTML</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Welcome to Lab 8</h1>
+    <p>This page demonstrates Lithuanian encoding and includes a placeholder for a CSS file.</p>
+    <p><b>Group:</b> ekfuc23</p>
+</body>
+</html>
